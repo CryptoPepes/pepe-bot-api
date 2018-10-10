@@ -13,6 +13,5 @@ type Pepe struct {
 	Father        *big.Int
 	Mother        *big.Int
 	PepeName      [32]byte
-	BirthTime     *big.Int
 	CoolDownIndex uint8
 }
